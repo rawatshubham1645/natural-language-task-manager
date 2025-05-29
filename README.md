@@ -38,7 +38,7 @@ A modern task management application with natural language processing capabiliti
 ### Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rawatshubham1645/natural-language-task-manager.git
 cd natural-lang
 ```
 
